@@ -1,0 +1,14 @@
+{
+  "hero_eyebrow": "Vedic Astrology &middot; Mumbai",
+  "hero_heading": "Guidance rooted in classical Jyotish",
+  "hero_tagline": "Personal Vedic astrology consultations on marriage, career, health, and life's turning points, from VED Consultancy in Mumbai.",
+  "welcome_heading": "Traditional guidance, explained simply",
+  "welcome_text": "VED Consultancy offers personal Vedic astrology readings, including birth chart (Kundli) analysis, marriage compatibility, career timing, and remedial guidance, drawing on classical Jyotish methods passed down through years of study and practice. Whether you are seeking clarity on a major decision or simply curious about what your chart holds, we are here to help.",
+  "home_services": [
+    { "title": "Horoscope Consultation", "text": "A detailed reading of your birth chart covering personality, timing, and life direction." },
+    { "title": "Match Making", "text": "Compatibility analysis for marriage using traditional Guna Milan and chart comparison." },
+    { "title": "Job / Career", "text": "Guidance on career timing, changes, and decisions based on your planetary periods." }
+  ],
+  "reports_heading": "Rashiphal &amp; Panchang",
+  "reports_text": "Today's Panchang, Yearly Rashiphal, and Monthly Planets, updated regularly by VED Consultancy."
+}

@@ -1,0 +1,17 @@
+{
+  "services_intro": "Each consultation is tailored to your birth details and the questions you bring. Reach out to discuss which service fits your situation, or book directly.",
+  "services_grid": [
+    { "title": "Horoscope Consultation", "text": "A complete reading of your birth chart (Kundli), covering personality, strengths, challenges, and life direction.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Match Making", "text": "Compatibility analysis between two charts using Guna Milan and detailed planetary comparison for marriage.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Marriage", "text": "Guidance on marriage timing, potential delays, and remedies, along with pre and post marriage counselling.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Child Related", "text": "Consultations on conception timing, a child's birth chart, education, and early life guidance.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Health", "text": "Understanding health tendencies indicated in the chart, and timing of favorable periods for treatment or recovery.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Job / Career", "text": "Guidance on career changes, business decisions, promotions, and identifying favorable periods for growth.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Properties / Wealth", "text": "Insight on timing for property purchases, investments, and overall wealth and financial planning indicated by the chart.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Zoom / Video Consulting", "text": "Full consultations conducted over video call for clients outside Mumbai, or for added convenience.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Muhurat", "text": "Selection of auspicious dates and times for weddings, housewarmings, business launches, and other important events.", "link": "contact.html", "linkText": "Enquire &rarr;" },
+    { "title": "Mini Consultations", "text": "Shorter, focused follow up sessions for repeat clients who have questions on a specific, ongoing matter.", "link": "contact.html", "linkText": "Enquire &rarr;" }
+  ],
+  "languages_text": "Consultations are available in multiple languages: English, Hindi, Marathi, and Gujarati.",
+  "pricing_text": "Fees are shared during your enquiry, based on the nature and depth of guidance required."
+}
