@@ -1,0 +1,20 @@
+# BLOG ARTICLES: one article per line, newest first.
+# Format:   Title | file name OR full link | date (optional)
+#
+# For a file: first upload it into this "articles" folder,
+# then write its exact file name (same spelling, same capitals).
+#   .pdf              opens as a PDF
+#   .jpg .jpeg .png   shows as a picture on the page
+#   .txt              shows as text on the page (copy and paste the article
+#                     into a new .txt file here; it appears under "Read article")
+# For an article published elsewhere: paste the full link (starts with https://).
+#
+# Do not use the name articles.txt for an article; that is this list.
+# Lines starting with # are ignored. While this file has no article lines,
+# the Blog page shows "This page is under construction."
+#
+# Examples (remove the # to use them):
+# Planetary transits in 2026 | transits-2026.pdf | 12 Oct 2026
+# Hast Rekha chart | hast-rekha.jpg | 5 Oct 2026
+# Meaning of Gayatri Mantra | gayatri-mantra.txt | 8 Oct 2026
+# Interview on Vedic astrology | https://example.com/interview | 1 Oct 2026
